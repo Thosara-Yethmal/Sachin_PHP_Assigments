@@ -87,7 +87,7 @@
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
           <h2>Welcome to <span>School.lk</span></h2>
-          <p>Sed autem laudantium dolores. Voluptatem itaA good school is one that prioritizes the academic and personal
+          <p>A good school is one that prioritizes the academic and personal
             growth of its students. It provides a safe and supportive learning environment, where students can learn and
             thrive. A good school also has highly qualified and dedicated teachers who are committed to helping students
             reach their full potential.
@@ -400,10 +400,12 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span>Impact</span>
+            <span>School.lk</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta
-            donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>A good school is one that prioritizes the academic and personal
+            growth of its students. It provides a safe and supportive learning environment, where students can learn and
+            thrive. A good school also has highly qualified and dedicated teachers who are committed to helping students
+            reach their full potential.</p>
           <div class="social-links d-flex mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
